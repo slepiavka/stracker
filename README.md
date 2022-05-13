@@ -1,0 +1,2 @@
+# stracker
+Homemade astrophotography mount
